@@ -58,7 +58,7 @@ This dashboard provides a complete analysis of Superstore sales performance acro
 ## 🎥 Video Demo  
 
 👉 Click here to watch the full dashboard walkthrough:  
-[https://drive.google.com/drive/folders/1CSpf4KpO821BaX2WYIWPg3sFv7plezyr?usp=drive_link]  
+[https://drive.google.com/file/d/1prez0i1y5pUjqL6YOTs7c4XdW1O4RIe0/view?usp=drivesdk]
 
 (The video explains dashboard functionality, filters, and key insights.)
 
